@@ -38,5 +38,5 @@ while Buscarcontacto:
 
     elif opcion == "3":
         Buscarcontacto = False 
-    variable = 0 
+    
 
